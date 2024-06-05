@@ -1,0 +1,16 @@
+.tvshows img{
+    width: 400px;
+    height: 600px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.tvshows{
+    border: none;
+    color: white;
+    transition: all 0.3s ease-in-out;
+}
+.tvshows:hover{
+    transform: scale(1.02);
+}

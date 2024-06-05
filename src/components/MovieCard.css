@@ -1,0 +1,16 @@
+.moviecard img{
+    width: 400px;
+    height: 600px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.moviecard{
+    border: none;
+    color: white;
+    transition: all 0.3s ease-in-out;
+}
+.moviecard:hover{
+    transform: scale(1.02);
+}

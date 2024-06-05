@@ -1,0 +1,20 @@
+.hero{
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+   
+}
+.writeups{
+    backdrop-filter: blur(1px);
+    height: 60vh;
+    color:white;
+    padding: 100px;
+}
+.writeups h1{
+    font-size: 60px;
+}
+.writeups p{
+    font-size: 20px;
+}
